@@ -1,2 +1,4 @@
-/.ipynb_checkpoints/
-.python-version
+.DS_Store
+**/.DS_Store
+/build/
+build_info
